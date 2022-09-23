@@ -9,3 +9,7 @@ It now includes steps for Github
 # Eugene Brice
 
 This is the first git practice of Eugene Brice.
+
+# Hello World!
+
+This is the first git practice of Eugene Brice.
