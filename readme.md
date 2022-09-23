@@ -10,6 +10,6 @@ It now includes steps for Github
 
 This is the first git practice of Eugene Brice.
 
-# Hello World!
+# Welcome to my Website!
 
-This is the first git practice of Eugene Brice.
+@@@Galaxy@@@
